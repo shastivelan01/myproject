@@ -1,0 +1,10 @@
+import pandas as pd
+import numpy as np
+a = pd.read_csv(r"C:\Users\Admin\Downloads\veera.csv")
+a
+
+
+a.head(5)
+
+
+a.tail(5)
